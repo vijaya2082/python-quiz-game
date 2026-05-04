@@ -21,6 +21,10 @@ A Python-based Quiz Game using Tkinter GUI that allows users to play multiple-ch
 
 ## Language Used 
 python programming language
+## Group members
+V. Chandana
+S.Vijaya Lakshmi
+V.Sanjay Shekar
 
 
 
